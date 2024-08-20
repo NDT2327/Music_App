@@ -38,12 +38,12 @@ The **Music Player App** is a Flutter-based application that allows users to pla
    git clone https://github.com/your-username/music-player-app.git
    cd music-player-app
 
-2.**Install Dependencies:
-- **Navigate to the project directory and install the required dependencies:
+2. **Install Dependencies:**
+- **Navigate to the project directory and install the required dependencies:**
     ```bash
     flutter pub get
-3. **Run the App:
-   - **Navigate to the project directory and install the required dependencies:
+3. **Run the App:**
+   - **Navigate to the project directory and install the required dependencies:**
     ```bash
     flutter run
 ## Usage
